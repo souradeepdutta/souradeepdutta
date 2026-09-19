@@ -17,7 +17,7 @@
 
 ```yaml
 name: Souradeep Dutta
-origin: Kolkata, India 🇮🇳  -->  Current: Bangalore 🏙️
+origin: Kolkata, India 🏛️ -->  Current: Bangalore 🏙️
 role: AI Developer @ Broadridge
 focus: [AI Automation, AI Security, Cloud Systems]
 obsessions: [Linux, AI Automation, System Architecture]
