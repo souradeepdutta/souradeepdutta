@@ -33,8 +33,8 @@ philosophy: "Build reliable systems, automate repetitive work, keep things simpl
 | :--- | :--- |
 | **🤖 AI Automation & Agents** | Multi-agent workflows, LangGraph orchestration, tool-calling pipelines, automated IaC generation |
 | **🛡️ AI Security & Threat Triage** | Model Context Protocol (MCP), phishing triage heuristics, security log analysis |
-| **☁️ Cloud & Backend Systems** | AWS (SageMaker, S3, DynamoDB, IAM), Docker, REST APIs, Flask, microservices |
-| **🐧 Linux & Networking** | Linux administration, Bash automation, socket programming, cryptographic protocols |
+| **☁️ Cloud & Backend Systems** | AWS (SageMaker, S3, DynamoDB, IAM), Docker, REST APIs, Flask, microservices) |
+| **🐧 Linux & Networking** | Linux administration, Bash automation, cryptographic protocols |
 
 ---
 
